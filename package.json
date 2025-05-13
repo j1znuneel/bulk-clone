@@ -1,6 +1,6 @@
 {
   "name": "github-cloner-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "type": "module",
   "bin": {
-  "gclone": "index.js"
+    "gclone": "index.js"
   },
   "keywords": [],
   "author": "",
